@@ -1,0 +1,94 @@
+body {
+  background-color: #CBC8C7
+}
+#header {
+  position: static;
+  width: 100%;
+  margin-top: 0px;
+  height: 100px;
+  background-color: #4C4746;
+  margin-bottom: 0px;
+  display: flex;
+}
+#logo {
+  position: relative
+;
+}
+#navbar {
+
+}
+a {
+  font-family: helvetica, sans-serif;
+  color:#CECBCB;
+  text-decoration:none;
+  font-size: 11px;
+  margin-right: 60px;
+  font-size: 30px
+}
+#slide {
+  height: 500px;
+}
+#designquote {
+  font-family: impact, sans-serif;
+  color:white;
+  font-size: 50px;
+  text-align: inherit;
+  margin-bottom: 200px;
+}
+#titre1 {
+text-align: center;
+  font-family: verdana, sans-serif;
+}
+#maintext {
+  text-align: center;
+    font-family: verdana, sans-serif;
+}
+#becode {
+  text-align: center;
+    font-family: verdana, sans-serif;
+}
+
+#experience{
+
+}
+/*
+#headsketch{
+  background-color: #3E3E58;
+  border: 1px solid grey;
+*/
+}
+
+#service {
+
+}
+
+/*
+#headerimg {
+  width: 100% !important;
+  border: 1px ;
+}
+*/
+#mainsection p {
+  font-family: impact, sans-serif;
+  color:white;
+  font-size: 20px;
+}
+#mainsection {
+  width: 90%;
+  margin-left: 5%;
+  height: 20%;
+  background: #3F3A3A;
+}
+
+#mainsection li {
+  display: inline-block;
+}
+
+
+#mainsection img {
+  height: 330px;
+  display: block;
+    margin-left: 20px;
+    margin-right: 20px;
+
+}
